@@ -1,1 +1,4 @@
-bundle exec jekyll liveserve
+#!/usr/bin/env bash
+set -euo pipefail
+
+bundle exec jekyll serve --livereload

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yuzhu Wang"
+description              : "Research intern at Tsinghua University working on diffusion models, video and image generation, and data distillation."
+repository               : "wangyuzhu6/wangyuzhu6.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,24 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Yuzhu Wang"
+  avatar           : "images/yuzhu-wang.jpg"
+  bio              :
+  show_profile_description : false
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Wegh0tMAAAAJ&hl=zh-CN"
+  email            : "wyz10247@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://wangyuzhu6.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "wangyuzhu6"
   google_plus      :
   keybase          :
   instagram        :
