@@ -20,6 +20,7 @@ My research interests mainly include **diffusion models**, **video and image gen
 
 1. [**h-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement.**](https://arxiv.org/abs/2605.11871)<br>
    **Yuzhu Wang**<sup>\*</sup>, Xi Ye<sup>\*</sup>, Duo Su, Yangyang Xu, Jun Zhu<sup>†</sup>.<br>
+   **NeurIPS 2026.**<br>
    [[pdf]](https://arxiv.org/pdf/2605.11871) [[code]](https://github.com/wangyuzhu6/hcontrol)
 
 2. [**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System.**](https://arxiv.org/abs/2607.27380)<br>
