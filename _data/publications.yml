@@ -8,7 +8,7 @@
   code: "https://github.com/wangyuzhu6/GibbsLens"
 
 - title: "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models"
-  authors: "Xi Ye, **Yuzhu Wang**, Xiaoyang Liu, Jiayi Wang, Yangyang Xu, Ruyu Wang, Wenlin Chen, Duo Su, Jun Zhu."
+  authors: "Xi Ye<sup>*</sup>, **Yuzhu Wang**<sup>*</sup>, Xiaoyang Liu, Jiayi Wang, Yangyang Xu, Ruyu Wang, Wenlin Chen, Duo Su, Jun Zhu."
   venue: "arXiv 2026"
   arxiv: "https://arxiv.org/abs/2610.02726"
   pdf: "https://arxiv.org/pdf/2610.02726"
