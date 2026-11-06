@@ -1,0 +1,29 @@
+- title: "GibbsLens: Training-Free Camera Control via Block-Conditional Gibbs Refinement"
+  authors: "**Yuzhu Wang**<sup>*</sup>, Xi Ye<sup>*</sup>, Duo Su, Yangyang Xu, Jun Zhu<sup>†</sup>."
+  venue: "NeurIPS 2026"
+  peer_reviewed: true
+  arxiv: "https://arxiv.org/abs/2605.11871v3"
+  pdf: "https://arxiv.org/pdf/2605.11871v3"
+  project: "https://xiye20.github.io/projects/GibbsLens/"
+  code: "https://github.com/wangyuzhu6/GibbsLens"
+
+- title: "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models"
+  authors: "Xi Ye, **Yuzhu Wang**, Xiaoyang Liu, Jiayi Wang, Yangyang Xu, Ruyu Wang, Wenlin Chen, Duo Su, Jun Zhu."
+  venue: "arXiv 2026"
+  arxiv: "https://arxiv.org/abs/2610.02726"
+  pdf: "https://arxiv.org/pdf/2610.02726"
+
+- title: "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System"
+  authors: "Haodong Li, Tianfei Ren, Xiaoxiao Ma, …, **Yuzhu Wang**, …, Pheng-Ann Heng."
+  venue: "arXiv 2026"
+  arxiv: "https://arxiv.org/abs/2607.27380"
+  pdf: "https://arxiv.org/pdf/2607.27380"
+  code: "https://github.com/micky-li-hd/VideoCoCo"
+
+- title: "Diffusion Models as Dataset Distillation Priors"
+  authors: "Duo Su, Huyu Wu, Huanran Chen, Yiming Shi, **Yuzhu Wang**, Xi Ye, Jun Zhu<sup>†</sup>."
+  venue: "ICLR 2026"
+  peer_reviewed: true
+  arxiv: "https://arxiv.org/abs/2510.17421"
+  pdf: "https://arxiv.org/pdf/2510.17421"
+  code: "https://github.com/suduo94/DAP"

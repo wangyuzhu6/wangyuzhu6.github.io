@@ -1,0 +1,15 @@
+<ul class="publication-list" role="list">
+  {% for paper in site.data.publications %}
+  <li class="publication">
+    <span class="publication-venue{% if paper.peer_reviewed %} publication-venue--conference{% endif %}">{{ paper.venue | escape }}</span>
+    <h2 class="publication-title"><a href="{{ paper.arxiv | escape }}" target="_blank" rel="noopener noreferrer">{{ paper.title | escape }}</a></h2>
+    <div class="publication-authors">{{ paper.authors | markdownify }}</div>
+    <div class="publication-links" role="group" aria-label="Resources for {{ paper.title | escape }}">
+      <a href="{{ paper.arxiv | escape }}" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="{{ paper.pdf | escape }}" target="_blank" rel="noopener noreferrer">PDF</a>
+      {% if paper.project %}<a href="{{ paper.project | escape }}" target="_blank" rel="noopener noreferrer">Project page</a>{% endif %}
+      {% if paper.code %}<a href="{{ paper.code | escape }}" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
