@@ -18,7 +18,7 @@ My research interests mainly include **diffusion models**, **video and image gen
 
 {% include publications.html %}
 
-<p class="publication-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
+<p class="publication-note"><sup>*</sup> Equal contribution.</p>
 
 # Education
 

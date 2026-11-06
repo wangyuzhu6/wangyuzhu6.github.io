@@ -1,5 +1,5 @@
 - title: "GibbsLens: Training-Free Camera Control via Block-Conditional Gibbs Refinement"
-  authors: "**Yuzhu Wang**<sup>*</sup>, Xi Ye<sup>*</sup>, Duo Su, Yangyang Xu, Jun Zhu<sup>†</sup>."
+  authors: "**Yuzhu Wang**<sup>*</sup>, Xi Ye<sup>*</sup>, Duo Su, Yangyang Xu, Jun Zhu."
   venue: "NeurIPS 2026"
   peer_reviewed: true
   arxiv: "https://arxiv.org/abs/2605.11871v3"
@@ -21,7 +21,7 @@
   code: "https://github.com/micky-li-hd/VideoCoCo"
 
 - title: "Diffusion Models as Dataset Distillation Priors"
-  authors: "Duo Su, Huyu Wu, Huanran Chen, Yiming Shi, **Yuzhu Wang**, Xi Ye, Jun Zhu<sup>†</sup>."
+  authors: "Duo Su, Huyu Wu, Huanran Chen, Yiming Shi, **Yuzhu Wang**, Xi Ye, Jun Zhu."
   venue: "ICLR 2026"
   peer_reviewed: true
   arxiv: "https://arxiv.org/abs/2510.17421"
